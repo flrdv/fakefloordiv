@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fakefloordiv
-- 👀 I’m interested in network programming, especially web-technologies
-- 🌱 Currently I'm learning Golang, and maintaining my own web-server
-- ⚡️ Trying my best at HTTP parser optimisations
-- 👤 Open for hire!
-- 🗣 Speaking in English, Ukrainian, Deutsch, russian
-- 📱 You can contact me by Telegram - [@floordiv](https://floordiv.t.me)
+- 👀 I’m interested in network programming and compiler theory
+- 🌱 Currently I'm maintaining own web-framework, sometimes switching to other pet-projects:)
+- ⚡️ I value performant software and hate bloated tower of inefficient and stupid abstractions in sake of imaginary "comfortness" or "readability"
+- 👤 Open for part-time job!
+- 🗣 Speaking in English, German, Ukrainian and Russian
+- 📱 You can reach me via [E-Mail](mailto://romanenko@pavlo.ooo) or Telegram
+- 🐱‍👤 How deep is the rabbit hole?
