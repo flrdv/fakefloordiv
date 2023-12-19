@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 - 👋 Hi, I’m @fakefloordiv
 - 👀 I’m interested in network programming and compiler theory
 - 🌱 Currently I'm maintaining own web-framework, sometimes switching to other pet-projects:)
